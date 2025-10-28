@@ -3,6 +3,5 @@ export default function Page(){
         <h1>Über mich</h1>
         <p className="font-bold">Bald mehr.</p>
         <section>
-            Hallo. Ich bin cool
         </section>
     </div> }
