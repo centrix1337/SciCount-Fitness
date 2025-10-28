@@ -4,7 +4,9 @@ export default function Datenschutz() {
         <section className="prose max-w-none">
             <h1>Datenschutzerklärung</h1>
             <h2>1. Verantwortlich</h2>
-            <p>Dein Name, Adresse, E-Mail wie im Impressum.</p>
+            <p>Vincent Braunschläger</p>
+            <p>Gabriel-Max-Straße 18, 81545, München, Deutschland</p>
+            <p>email</p>
             <h2>2. Server-Logs & Cookies</h2>
             <p>Es werden nur technisch notwendige Daten verarbeitet. Keine Profiling-Cookies.</p>
             <h2>3. Kontaktformular</h2>
