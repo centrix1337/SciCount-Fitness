@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export default function Home() {
     return (
         <main className="min-h-screen p-8">
@@ -8,12 +10,12 @@ export default function Home() {
                 <p className="text-lg">
                     Hier teile ich Training, Ernährung & Biomechanik – klar, praxisnah, ohne Bullshit.
                 </p>
-                <a
+                <Link
                     href="/blog"
                     className="inline-block rounded-xl border px-4 py-2 hover:shadow"
                 >
                     Zum Blog
-                </a>
+                </Link>
             </section>
         </main>
     );
