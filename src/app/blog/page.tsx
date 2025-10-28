@@ -16,7 +16,7 @@ export default function BlogPage() {
             <h1>Blog</h1>
             <p>Artikel zu Training, Ernährung & Biomechanik.</p>
 
-            <div className="grid gap-4 py-20 sm:grid-cols-2">
+            <div className="grid gap-4 py-10 sm:grid-cols-2">
                 {posts.map((p) => (
                     <PostCard key={p.slug} p={p} />
                 ))}
