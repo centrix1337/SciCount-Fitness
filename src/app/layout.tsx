@@ -33,7 +33,7 @@ export const metadata: Metadata = {
         creator: site.twitter,
         title: "SciCount Fitness",
         description: site.description,
-        images: ["/ogreal.png"],
+        images: ["/og.png"],
     },
     alternates: {
         canonical: site.url,
