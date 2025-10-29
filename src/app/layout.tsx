@@ -24,7 +24,7 @@ export const metadata: Metadata = {
         title: "SciCount Fitness",
         description: site.description,
         siteName: "SciCount Fitness",
-        images: [{ url: "/og.png", width: 321, height: 321 }], // dein Preview-Bild
+        images: [{ url: "/og.png", width: 1200, height: 630 }], // dein Preview-Bild
         locale: "de_DE",
     },
     twitter: {
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
         creator: site.twitter,
         title: "SciCount Fitness",
         description: site.description,
-        images: ["/og.png"],
+        images: ["/ogreal.png"],
     },
     alternates: {
         canonical: site.url,
