@@ -50,7 +50,7 @@ export default function ContactForm() {
             </button>
 
             {status === "ok" && (
-                <p className="text-green-700 text-sm">Danke! Deine Nachricht wurde gesendet (Demo).</p>
+                <p className="text-green-700 text-sm">Danke! Deine Nachricht wurde gesendet.</p>
             )}
             {status === "error" && (
                 <p className="text-red-700 text-sm">Upps – das hat nicht geklappt. Bitte später nochmal.</p>
