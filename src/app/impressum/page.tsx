@@ -7,7 +7,7 @@ export default function Impressum() {
             <p>
                 Vincent Braunschläger<br/> Gabriel-Max-Straße 18<br/> 81545 München<br/> Deutschland
             </p>
-            <p>E-Mail: </p>
+            <p>E-Mail: info@scicountfitness.de</p>
 
         </section>
     );

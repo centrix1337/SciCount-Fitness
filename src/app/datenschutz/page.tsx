@@ -6,7 +6,7 @@ export default function Datenschutz() {
             <h2>1. Verantwortlich</h2>
             <p>Vincent Braunschläger</p>
             <p>Gabriel-Max-Straße 18, 81545, München, Deutschland</p>
-            <p>email</p>
+            <p>info@scicountfitness.de</p>
             <h2>2. Server-Logs & Cookies</h2>
             <p>Es werden nur technisch notwendige Daten verarbeitet. Keine Profiling-Cookies.</p>
             <h2>3. Kontaktformular</h2>
