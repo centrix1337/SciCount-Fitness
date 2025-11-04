@@ -29,8 +29,6 @@ export const metadata: Metadata = {
     },
     twitter: {
         card: "summary_large_image",
-        site: site.twitter,
-        creator: site.twitter,
         title: "SciCount Fitness",
         description: site.description,
         images: ["/og.png"],
